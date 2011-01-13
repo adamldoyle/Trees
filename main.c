@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "BaseTree.h"
+#include "BinarySearchTree.h"
 
 #ifdef WIN32
 #define BTSCAN scanf_s

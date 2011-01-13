@@ -5,8 +5,8 @@
  * Adam Doyle
  */
 
-#ifndef __BASETREE_H__
-#define __BASETREE_H__
+#ifndef __BINARYSEARCHTREE_H__
+#define __BINARYSEARCHTREE_H__
 
 
 /* Boolean */
@@ -103,4 +103,4 @@ void *Current(ITERATOR pIter);
 void *Next(ITERATOR pIter);
 void Detach(ITERATOR pIter);
 
-#endif /* __BASETREE_H__ */
+#endif /* __BINARYSEARCHTREE_H__ */

@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#include "BaseTree.h"
+#include "BinarySearchTree.h"
 
 /* Method predeclarations */
 /* Memory management */
